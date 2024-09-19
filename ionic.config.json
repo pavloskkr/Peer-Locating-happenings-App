@@ -1,0 +1,7 @@
+{
+  "name": "peer-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
